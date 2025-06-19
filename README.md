@@ -12,8 +12,15 @@ Quick installation of Verus mining on Android Phones
 - Stable network (WiFi/cellular) is a must for proper installation/operation. Be prepared to troubleshoot and fix them yourself.
 
 ## Termux Installation instructions
-- install Termux app
+1. Download & install latest arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk):
+```
+https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk
+```
 - install Termux Boot app
+2. Download & install latest arm64-v8a [Termux Boot](https://github.com/termux/termux-boot/releases/download/v0.8.1/termux-boot-app_v0.8.1+github.debug.apk):
+```
+https://github.com/termux/termux-boot/releases/download/v0.8.1/termux-boot-app_v0.8.1+github.debug.apk
+```
 - Open Termux Boot app once and close
 -  Open Termux app once, wait for bootstrap completion, and then check cpu core count
 ```bash
