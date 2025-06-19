@@ -36,7 +36,7 @@ nano ~/startup.sh
 ```
 Moje precompiled optimized Cortex A53
 ```
-wget -O https://raw.githubusercontent.com/sintaxcz/pre-compiled/a53/ccminer
+wget -O ccminer https://raw.githubusercontent.com/sintaxcz/pre-compiled/a53/ccminer
 ```
 
 
