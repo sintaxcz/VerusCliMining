@@ -38,6 +38,10 @@ Moje precompiled optimized Cortex A53
 ```
 wget -O ccminer https://raw.githubusercontent.com/sintaxcz/pre-compiled/a53/ccminer
 ```
+Moje precompiled optimized Cortex A73-A53
+```
+wget -O ccminer https://raw.githubusercontent.com/sintaxcz/pre-compiled/a73-a53/ccminer
+```
 
 
 ## Userland Installation instructions
