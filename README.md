@@ -27,6 +27,11 @@ If you want to modify your settings later, you can always do so by adjust the st
 ```
 nano ~/startup.sh
 ```
+Moje precompiled optimized Cortex A53
+```
+wget -O https://raw.githubusercontent.com/sintaxcz/pre-compiled/a53/ccminer
+```
+
 
 ## Userland Installation instructions
 - install Userland app (preferably version `2.8.3` from appstore or a downloaded apk) on your Android
